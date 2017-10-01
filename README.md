@@ -2,3 +2,8 @@ wd [![License](http://img.shields.io/:license-gpl3-blue.svg)](http://www.gnu.org
 ==
 
 A package for comparing strings on a word per word basis and generating a coloured diff.
+
+## Install
+
+    go get -u github.com/opennota/wd
+
